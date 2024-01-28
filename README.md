@@ -27,14 +27,13 @@ Windows 12 的明天在大家的努力下会更灿烂美好！
 
 ---
 
-> 作者今年初三了，不会做什么功能的更新了。维护和继续开发交给我们的 [@User782Tec](https://github.com/User782Tec) [@NB-Group](https://github.com/NB-Group)，详见 [公告](https://github.com/tjy-gitnub/win12/wiki/%E5%85%AC%E5%91%8A-Notices)。
 
 ```
 寒窗苦读九春秋，一朝定乾坤。
 山岭越尽云雾散，霞光终万道。
 待蟾折桂题金榜，再叙一载过往！
 后会有期，明年再见，各位朋友，洒家告辞！
-————星源 23/8/30
+————星辰 23/8/30
 ```
 
 ---
